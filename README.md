@@ -1,2 +1,3 @@
 # GuessMyNumberJS
-practicing javascript DOM manipulations
+
+Little game to practice javascript DOM manipulations 
